@@ -1,0 +1,14 @@
+.text-area{
+    resize: none;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    width: 100%;
+    height: auto;
+    justify-content: left;
+    text-align: center;
+}
+
+body{
+    background-color: rgba(214, 212, 212, 0.986);
+}
